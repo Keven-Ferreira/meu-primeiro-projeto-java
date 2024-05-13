@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "edu.keven.aprendendoasintaxejava.terminalArgumentos.Argumentos",
+            "projectName": "java-anatomia-classes_d121d7e8"
+        },
+        {
+            "type": "java",
+            "name": "Escanear",
+            "request": "launch",
+            "mainClass": "edu.keven.aprendendoasintaxejava.terminalArgumentos.Escanear",
+            "projectName": "java-anatomia-classes_d121d7e8"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "Argumentos",
+            "args": [
+                "Keven",
+                "Camêlo",
+                "26",
+                "1.75"
+            ],
+            "projectName": "java-anatomia-classes_d121d7e8"
+        }
+    ]
+}
