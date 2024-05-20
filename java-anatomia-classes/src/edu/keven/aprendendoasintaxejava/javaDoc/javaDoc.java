@@ -1,6 +1,7 @@
-package edu.keven.aprendendoasintaxejava.javaDoc;
+package javaDoc;
 
 public class javaDoc {
+    
          /**
          * <h1>Calculadora</h1>
          * A calculadora realiza operações matemáticas números

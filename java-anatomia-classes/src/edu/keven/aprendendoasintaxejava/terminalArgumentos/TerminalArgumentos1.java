@@ -1,4 +1,4 @@
-package edu.keven.aprendendoasintaxejava.terminalArgumentos;
+package terminalArgumentos;
 
 public class TerminalArgumentos1 {
     public static void main(String[] args) {

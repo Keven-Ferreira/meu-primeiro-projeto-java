@@ -1,4 +1,4 @@
-package edu.keven.aprendendoasintaxejava.palavrasReservadas;
+package palavrasReservadas;
 
 public class palavrasReservadas{
     //palavras reservadas não podem ser utilizadas no código, exceto nas suas devidas funções.

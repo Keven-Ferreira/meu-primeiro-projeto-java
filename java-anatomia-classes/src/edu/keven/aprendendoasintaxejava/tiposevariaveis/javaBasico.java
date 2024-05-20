@@ -15,7 +15,7 @@
  * O Java por ser fortemente tipado, faz com que as variáveis sejam extremamente tipadas. Conforme exemplo 1
  */
 
-package edu.keven.aprendendoasintaxejava.tiposevariaveis;
+package tiposevariaveis;
 
 public class javaBasico {
     public static void main(String[] args) {
@@ -23,7 +23,8 @@ public class javaBasico {
     //Exemplo 1
      short numeroCurto = 1;
      int numeroNormal = numeroCurto;
-     short numeroCurto2 = (short) numeroNormal;
+     @SuppressWarnings("unused")
+    short numeroCurto2 = (short) numeroNormal;
      //final exemplo 1
      /*
      *Vimos que o Java da um erro, pois o valor de int, em algum momento, pode ser superior ao do short. Fazendo com que o erro possa se propagar.

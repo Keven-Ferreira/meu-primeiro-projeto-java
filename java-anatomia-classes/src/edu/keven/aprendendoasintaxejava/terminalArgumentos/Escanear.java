@@ -1,10 +1,14 @@
-package edu.keven.aprendendoasintaxejava.terminalArgumentos;
+package terminalArgumentos;
 
 import java.util.Scanner;
 import java.util.Locale;
 
 public class Escanear {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         System.out.print("Digite o seu nome: ");

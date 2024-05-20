@@ -1,4 +1,4 @@
-package edu.keven.aprendendoasintaxejava.metodos;
+package metodos;
 
 public class smartTv {
     boolean ligada = false;

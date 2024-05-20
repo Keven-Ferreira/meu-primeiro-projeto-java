@@ -1,4 +1,4 @@
-package edu.keven.aprendendoasintaxejava.Operadores;
+package Operadores;
 /**Operadores - Aula 2
  * String nomeCompleto = "LINGUAGEM" + "JAVA";
  * System.out.println(nomeCompleto);

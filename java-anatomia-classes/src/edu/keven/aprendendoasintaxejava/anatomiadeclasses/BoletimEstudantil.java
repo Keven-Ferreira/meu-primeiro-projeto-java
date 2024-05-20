@@ -1,4 +1,4 @@
-package edu.keven.aprendendoasintaxejava.anatomiadeclasses;
+package anatomiadeclasses;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
